@@ -3,6 +3,10 @@
 Este proyecto es una aplicación de consola desarrollada en Java con Maven, como parte del trabajo final del curso de Programación. Su objetivo es simular el funcionamiento de una tienda informática, permitiendo registrar clientes, productos (como laptops, mouses, teclados, etc.) y realizar ventas, aplicando los principios de la programación orientada a objetos y el control de stock.
 
 
+## 👥 Integrantes
+- Ricardo Quispe Vilca  
+- Ronaldo Waldir Quispe Supho
+  
 ## 📁 Estructura del Proyecto
 TF_Grupo07/
 ├── Source Packages/
